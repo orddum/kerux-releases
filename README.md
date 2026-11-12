@@ -12,10 +12,11 @@ hash SHA-256 do arquivo.
 Para conferir um arquivo baixado, no Terminal:
 
 ```bash
-shasum -a 256 ~/Downloads/Kerux-1.0.0.dmg
+shasum -a 256 ~/Downloads/Kerux-1.0.1.dmg
 ```
 
 O resultado precisa ser igual ao hash publicado na versão.
 
 O código-fonte do Kerux não está neste repositório. Software da Orddum
 Serviços de Tecnologia Ltda.; todos os direitos reservados.
+
