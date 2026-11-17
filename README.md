@@ -12,7 +12,7 @@ hash SHA-256 do arquivo.
 Para conferir um arquivo baixado, no Terminal:
 
 ```bash
-shasum -a 256 ~/Downloads/Kerux-1.1.0.dmg
+shasum -a 256 ~/Downloads/Kerux-1.2.0.dmg
 ```
 
 O resultado precisa ser igual ao hash publicado na versão.
